@@ -1,1 +1,1 @@
-# stone-paper-and-scissors.
+# create stone-paper-and-scissors by python.
